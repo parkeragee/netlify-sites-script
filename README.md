@@ -1,5 +1,6 @@
 ![example](example.png)
 
+
 A simple script to fetch your Netlify sites and render a simple HTML page displaying them
 
 #### How to use it
